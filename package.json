@@ -1,0 +1,11 @@
+{
+  "name": "com.fransvanberendonk.fpcc",
+  "version": "1.0.0",
+  "displayName": "First Person Character Controller",
+  "description": "A simple first person character controller for Unity using the new Input System.",
+  "unity": "6000.3",
+  "author": {
+    "name": "Frans van Berendonk",
+    "email": "frans.van.berendonk@gmail.com"
+  }
+}
